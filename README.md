@@ -1,2 +1,3 @@
-# Calculator-
-Simple calculator 
+# Calculator
+Angular Calculator
+sample Calculator angular app
